@@ -1,0 +1,15 @@
+.filters {
+	color: #FFF;
+	height: 70px;
+	width: 100%;
+	border: 1px solid #DDD;
+	border-radius: 4px;
+	display: flex;
+	justify-content: flex-end;
+	align-items: center;
+	text-align: right;
+}
+
+section.filters button {
+	font-size: 18px;
+}
